@@ -27,7 +27,7 @@ class _CustomDrawerState extends State<CustomDrawer> {
                 ),
                 SizedBox(height: 10),
                 Text(
-                  'Giel Pratama',
+                  'Alvin Fadhillah',
                   style: TextStyle(
                     fontSize: 20,
                     color: Colors.white,
@@ -35,7 +35,7 @@ class _CustomDrawerState extends State<CustomDrawer> {
                   ),
                 ),
                 Text(
-                  'giel@example.com',
+                  'alvinfadhillah213@gmail.com',
                   style: TextStyle(
                     fontSize: 14,
                     color: Colors.white70,
